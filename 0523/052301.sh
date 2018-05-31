@@ -1,3 +1,3 @@
 #!/bin/sh
 
-find ~ -type f | ls ~ | wc -l
+find ~ -type f | wc -l
