@@ -1,4 +1,4 @@
 #!/bin/bash
 
 mkdir dir1
-touch file{01..10}
+touch dir1/file{01..10}
