@@ -2,7 +2,7 @@
 
 file=$(find ~/ -type f | wc -l)
 
-echo "ファイル数$file"
+echo "ファイル数:$file"
 
 directory=$(find ~/ -type d | wc -l)
 
