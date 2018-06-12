@@ -2,8 +2,8 @@
 
 file=$(find ~/ -type f | wc -l)
 
-echo "$B%U%!%$%k?t(B:$file"
+echo "ファイル数$file"
 
 directory=$(find ~/ -type d | wc -l)
 
-echo "$B%G%#%l%/%H%j?t(B:$directory"
+echo "ディレクトリ数:$directory"
